@@ -1,4 +1,4 @@
-<img src="https://github.com/jhonathadev/moveit/img/1.png" height="600" width="850">
+<img src="https://github.com/jhonathadev/moveit/blob/master/img/1.png" height="600" width="850">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
